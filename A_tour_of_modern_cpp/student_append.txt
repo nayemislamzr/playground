@@ -1,0 +1,133 @@
+id 1 
+name abc 
+total_gpa 9.55 
+hsc 4.55 
+ssc 5.0
+id 2 
+name def 
+total_gpa 9.55 
+hsc 5.0 
+ssc 4.55
+id 3 
+name xyz 
+total_gpa 8.00 
+Alevel 4.0 
+Olevel 4.0
+id 4 
+name pqr 
+total_gpa 10 
+hsc 5.0 
+ssc 5.0
+id 5 
+name ali 
+total_gpa 9.67 
+hsc 4.67 
+ssc 5.0 
+id 6 
+name hasan 
+total_gpa 7.5 
+Alevel 3.5 
+Olevel 4.0 
+id 7 
+name kamal 
+total_gpa 7.5 
+Alevel 4.0 
+Olevel 3.5
+
+TOTAL GPA ANALYSIS:
+=====================
+
+
+For Bangla Medium:
+=====================
+
+Total GPA: 10.00
+=====================
+ID : 4;Name : pqr
+
+Total GPA: 9.67
+=====================
+ID : 5;Name : ali
+
+Total GPA: 9.55
+=====================
+ID : 2;Name : def
+ID : 1;Name : abc
+
+
+For English Medium:
+=====================
+
+Total GPA: 8.00
+=====================
+ID : 3;Name : xyz
+
+Total GPA: 7.50
+=====================
+ID : 7;Name : kamal
+ID : 6;Name : hasan
+
+
+SSC GPA ANALYSIS:
+=====================
+
+
+For Bangla Medium:
+=====================
+
+SSC GPA: 5.00
+=====================
+ID : 4;Name : pqr
+ID : 5;Name : ali
+ID : 1;Name : abc
+
+SSC GPA: 4.55
+=====================
+ID : 2;Name : def
+
+
+For English Medium:
+=====================
+
+O level GPA: 4.00
+=====================
+ID : 3;Name : xyz
+ID : 6;Name : hasan
+
+O level GPA: 3.50
+=====================
+ID : 7;Name : kamal
+
+
+HSC GPA ANALYSIS:
+=====================
+
+
+For Bangla Medium:
+=====================
+
+HSC GPA: 5.00
+=====================
+ID : 4;Name : pqr
+ID : 2;Name : def
+
+HSC GPA: 4.67
+=====================
+ID : 5;Name : ali
+
+HSC GPA: 4.55
+=====================
+ID : 1;Name : abc
+
+
+For English Medium:
+=====================
+
+A level GPA: 4.00
+=====================
+ID : 3;Name : xyz
+ID : 7;Name : kamal
+
+A level GPA: 3.50
+=====================
+ID : 6;Name : hasan

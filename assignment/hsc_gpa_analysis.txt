@@ -1,0 +1,29 @@
+For Bangla Medium:
+=====================
+
+HSC GPA: 5.00
+=====================
+ID : 4;Name : pqr
+ID : 2;Name : def
+
+HSC GPA: 4.67
+=====================
+ID : 5;Name : ali
+
+HSC GPA: 4.55
+=====================
+ID : 1;Name : abc
+
+
+
+For English Medium:
+=====================
+
+A level GPA: 4.00
+=====================
+ID : 3;Name : xyz
+ID : 7;Name : kamal
+
+A level GPA: 3.50
+=====================
+ID : 6;Name : hasan
